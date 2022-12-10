@@ -1,4 +1,2 @@
-# buuart.github.io
-
-## test page
-[dfsdfsdfsd]
+# тестовые страницы для проекта отправок
+что делать?
